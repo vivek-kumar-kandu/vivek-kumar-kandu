@@ -6,11 +6,7 @@
   </a>
 
   <p align="center">
-    <i>Passionate about building AI-powered applications, scalable backend systems, and intuitive cross-platform mobile experiences.</i>
-  </p>
-
-  <p align="center">
-    <b>GitHub:</b> <a href="https://github.com/vivek-kumar-kandu">@vivek-kumar-kandu</a>
+    <i>Building AI-powered products with Flutter, Machine Learning, and scalable backend systems.</i>
   </p>
 
   <br/>
@@ -95,7 +91,7 @@
 
 ---
 
-### ⚙️ Technologies I Work With
+### 💻 Tech Stack
 
 <div align="center">
 
@@ -119,6 +115,14 @@
 - 🏅 **CodeAlpha Virtual Internship (2026)**
 - 🏅 **IBM SkillsBuild Certification**
 - 🏅 **Deloitte Technology Job Simulation**
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vivek-kumar-kandu&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
@@ -175,16 +179,21 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vivek-kumar-kandu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-kumar-kandu&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=vivek-kumar-kandu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-kumar-kandu&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-kumar-kandu&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=vivek-kumar-kandu&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivek-kumar-kandu&theme=tokyonight" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vivek-kumar-kandu&theme=tokyo-night"/>
 </p>
 
 ---
@@ -192,22 +201,20 @@
 ### 📈 Activity & Contribution Snake
 
 <p align="center">
-  <a href="https://github.com/vivek-kumar-kandu">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivek-kumar-kandu&theme=tokyo-night" width="100%"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vivek-kumar-kandu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vivek-kumar-kandu/vivek-kumar-kandu/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" />
+  <img
+    src="https://raw.githubusercontent.com/vivek-kumar-kandu/vivek-kumar-kandu/output/github-contribution-grid-snake.svg"
+    alt="Snake Contribution Graph"/>
 </p>
 
 ---
 
 <div align="center">
+  <p align="center">
+    🚀 <i>Turning ideas into impactful software.</i>
+  </p>
+
+  <br/>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007A,50:6C63FF,100:00C2FF&height=120&section=footer"/>
   
   <h3>⭐ Thanks for visiting my profile!</h3>
