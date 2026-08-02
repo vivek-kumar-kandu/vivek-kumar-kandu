@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:6C63FF,100:FF007A&height=220&section=header&text=Vivek%20Kumar%20Kandu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%7C%20Flutter%20%7C%20Full-Stack%20Development&descAlignY=58" width="100%"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=B.Tech+CSIT+Student+%40+AKGEC;Building+Sarthee+AI+%F0%9F%9A%80;Flutter+Developer;Machine+Learning+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
+  <a href="https://github.com/vivek-kumar-kandu">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=B.Tech+CSIT+Student+%40+AKGEC;Building+Sarthee+AI+%F0%9F%9A%80;Flutter+Developer;Machine+Learning+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -64,7 +64,7 @@
   <a href="https://vivek-k-kandu.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
   </a>
-  <a href="https://vivek-k-kandu.vercel.app/resume" target="_blank">
+  <a href="https://vivek-k-kandu.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
   <a href="mailto:vivekk11951@gmail.com">
@@ -163,10 +163,10 @@
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://github.com/vivek-kumar-kandu/PayGuard-AI" target="_blank">
+        <a href="https://github.com/vivek-kumar-kandu" target="_blank">
           <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
         </a>
-        <a href="https://github.com/vivek-kumar-kandu/PayGuard-AI" target="_blank">
+        <a href="https://github.com/vivek-kumar-kandu" target="_blank">
           <img src="https://img.shields.io/badge/Public_Release-Coming_Soon-FF9800?style=for-the-badge"/>
         </a>
       </p>
