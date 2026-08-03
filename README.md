@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:6C63FF,100:FF007A&height=220&section=header&text=Vivek%20Kumar%20Kandu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%7C%20Flutter%20%7C%20Full-Stack%20Development&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:6C63FF,100:FF007A&height=220&section=header&text=Vivek%20Kumar%20Kandu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%7C%20%20%7C%20Full-Stack%20Development&descAlignY=58" width="100%"/>
 
   <a href="https://github.com/vivek-kumar-kandu">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=B.Tech+CSIT+Student+%40+AKGEC;Building+Sarthee+AI+%F0%9F%9A%80;Frontend+Developer;Machine+Learning+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
