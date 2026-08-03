@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:6C63FF,100:FF007A&height=220&section=header&text=Vivek%20Kumar%20Kandu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%7C%20Flutter%20%7C%20Full-Stack%20Development&descAlignY=58" width="100%"/>
 
   <a href="https://github.com/vivek-kumar-kandu">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=B.Tech+CSIT+Student+%40+AKGEC;Building+Sarthee+AI+%F0%9F%9A%80;Flutter+Developer;Machine+Learning+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=B.Tech+CSIT+Student+%40+AKGEC;Building+Sarthee+AI+%F0%9F%9A%80;Frontend+Developer;Machine+Learning+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <i>Building AI-powered products with Flutter, Machine Learning, and scalable backend systems.</i>
+    <i>Building AI-powered products, Machine Learning, and scalable backend systems.</i>
   </p>
 
   <br/>
@@ -29,7 +29,7 @@
       <ul>
         <li>🎓 <b>B.Tech in Computer Science & Information Technology</b> @ <a href="https://www.akgec.ac.in/" target="_blank">AKGEC</a></li>
         <li>🤖 <b>Currently building Sarthee AI</b> — AI-powered Smart Tourism & Urban Mobility Assistant</li>
-        <li>🛡️ <b>Currently building PayGuard AI</b> — ML-based Online Payment Fraud Detection System</li>
+        <li>🛡️ <b>PayGuard AI</b> — ML-based Online Payment Fraud Detection System</li>
         <li>💻 <b>Competitive Programming:</b> Solving DSA problems in C++</li>
         <li>💼 <b>Interests:</b> Artificial Intelligence, Full-Stack Development & Software Engineering</li>
         <li>🚀 <b>Open to:</b> Software Engineering Internships & Open Source Collaboration</li>
@@ -64,7 +64,7 @@
   <a href="https://vivek-k-kandu.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
   </a>
-  <a href="https://vivek-k-kandu.vercel.app/" target="_blank">
+  <a href="https://https://leetcode.com/u/vivek-kumar-kandu/" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
   <a href="mailto:vivekk11951@gmail.com">
@@ -75,7 +75,7 @@
 ### 💛 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/vivek_k_kandu/" target="_blank">
+  <a href="https://leetcode.com/u/vivek-kumar-kandu/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://codeforces.com/profile/vivek_k_kandu" target="_blank">
